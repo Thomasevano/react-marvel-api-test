@@ -5,7 +5,7 @@ Download and install Node if you haven't already
 ### Clone the Repo
 
 ```
-$git clone https://github.com/Thomasevano/eminem_quotes.github.io.git
+$git clone https://github.com/Thomasevano/react-marvel-api-test.git
 ```
 
 ## Install
